@@ -1,0 +1,13 @@
+# GitHub Pages build settings.
+# These files stay in the repository but are not published on the website.
+exclude:
+  - README.md
+  - AGENTS.md
+  - CLAUDE.md
+  - LICENSE
+  - add_paper.py
+  - coauthors.json
+  - generate_paper_previews.py
+  - setup_site.py
+  - site.json
+  - sync_site.py

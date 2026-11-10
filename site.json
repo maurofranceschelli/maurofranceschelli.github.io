@@ -1,0 +1,31 @@
+{
+  "name": "Mauro Franceschelli",
+  "short_name": "M. Franceschelli",
+  "site_url": "https://mauro-franceschelli.github.io/",
+  "selected": [
+    "J47",
+    "J46",
+    "J42",
+    "J41",
+    "J38"
+  ],
+  "news_on_home": 6,
+  "venue_labels": {
+    "TAC": "IEEE TAC",
+    "L-CSS": "IEEE L-CSS",
+    "TASE": "IEEE T-ASE",
+    "Automatica": "Automatica",
+    "TCST": "IEEE TCST",
+    "TCYB": "IEEE T-CYB",
+    "T-RO": "IEEE T-RO",
+    "Access": "IEEE Access",
+    "NAHS": "Nonlinear Anal. Hybrid Syst.",
+    "CEP": "Control Eng. Pract.",
+    "ARC": "Annu. Rev. Control",
+    "Sensors J": "IEEE Sensors J.",
+    "CDC": "IEEE CDC",
+    "CASE": "IEEE CASE",
+    "IFAC WC": "IFAC World Congress",
+    "NECSYS": "IFAC NecSys"
+  }
+}
