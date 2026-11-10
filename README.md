@@ -1,6 +1,6 @@
 # Mauro Franceschelli: personal academic website
 
-Source of **https://mauro-franceschelli.github.io**, the personal website of Mauro Franceschelli,
+Source of **https://maurofranceschelli.github.io**, the personal website of Mauro Franceschelli,
 Associate Professor of Automatic Control at the Department of Electrical and Electronic Engineering,
 University of Cagliari, Italy.
 
